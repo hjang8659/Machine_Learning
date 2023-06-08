@@ -1,1 +1,1 @@
-"Small machine learning projects" 
+## Short and fun small machine learning projects
